@@ -1,0 +1,24 @@
+.luxury-dark {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.luxury-dark h1, .luxury-dark h2, .luxury-dark h3 {
+    color: #f1c40f;
+}
+
+.luxury-dark a {
+    color: #e67e22;
+}
+
+.luxury-dark button {
+    background-color: #e74c3c;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.luxury-dark button:hover {
+    background-color: #c0392b;
+}
